@@ -10,7 +10,7 @@ and my opinion on some modern issues (spoiler alert: they usually don't go with 
 
 We can become friends if you think we share interests: [mikib0](https://t.me/miki_b0)
 
-Codes I have written (including this blog) can be found at: [github.com/mikib0][gh:mikib0]
+Codes I have written ([including this blog](https://github.com/mikib0/miki-blog)) can be found at: [github.com/mikib0][gh:mikib0]
 
 Wanna talk business? [mail me](mailto:ibrahim.jajere@outlook.com)
 
