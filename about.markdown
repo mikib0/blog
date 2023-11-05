@@ -6,6 +6,7 @@ permalink: /about/
 
 Yo! I am Ibrahim, a professional software developer;
 I use this space to write mainly on software development, psychology, my philosophical thoughts, my low-key (scientific) observations/hypothesis/theories, self development and entrepneurship.
+and my opinion on some modern issues (spoiler alert: they usually don't go with the mainstream narratives).
 
 We can become friends if you think we share interests: [mikib0](https://t.me/miki_b0)
 
