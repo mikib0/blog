@@ -15,7 +15,7 @@ Wanna talk business? [mail me](mailto:ibrahim.jajere@outlook.com)
 
 Appreciate my content?: [buy me a coffee!](https://www.buymeacoffee.com/ibrahimjajere)
 
-Got criticisms, sugguestions, etc? (I'd love to become stronger -thanks!): [mail me](mailto:ibrahim.jajere@outlook.com)
+Got criticisms, suggestions, etc? (I'd love to become stronger -thanks!): [mail me](mailto:ibrahim.jajere@outlook.com)
 
 
 [gh:mikib0]: https://github.com/mikib0
